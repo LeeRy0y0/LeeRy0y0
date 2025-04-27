@@ -43,7 +43,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeeRy0y0&theme=algolia&show_icons=true&count_private=true&include_all_commits=true&custom_title=My%20GitHub%20Stats" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LeeRy0y0&theme=algolia&show_icons=true&hide=contribs,prs&custom_title=My%20GitHub%20Stats" alt="LeeRy0y0's GitHub Stats" />
 </p>
 
 <p align="center">
